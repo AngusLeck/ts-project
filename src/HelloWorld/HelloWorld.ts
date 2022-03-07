@@ -1,7 +1,7 @@
 export class HelloWorld {
   private greeting;
 
-  constructor(greetingMessage: string = "Hello World") {
+  constructor(greetingMessage = "Hello World") {
     this.greeting = greetingMessage;
   }
 
