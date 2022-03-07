@@ -16,6 +16,7 @@
     "@typescript-eslint/indent": ["error", 2],
     "@typescript-eslint/no-unused-vars": "error",
     "@typescript-eslint/no-explicit-any": "error",
+    "@typescript-eslint/explicit-function-return-type": "error",
     "no-trailing-spaces": "error",
     "prefer-destructuring": "error",
     "etc/prefer-interface": "error",

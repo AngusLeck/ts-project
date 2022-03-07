@@ -5,7 +5,7 @@ export class HelloWorld {
     this.greeting = greetingMessage;
   }
 
-  public greet() {
+  public greet(): string {
     return this.greeting;
   }
 }
